@@ -1,6 +1,11 @@
 #splunk-es-threat-intel.py
 
+Author: George Starcher (starcher)
+Email: george@georgestarcher.com
+
 Python Script to push threatintel csv into Splunk ES KVStore.
+
+**All materials in this project are provided under the MIT software license. See license.txt for details.**
 
 ##Requirements:
 
