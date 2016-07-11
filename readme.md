@@ -19,7 +19,7 @@ The default conf file is kvstore.conf. You may create a copy and reference that 
 
 * You will need to update the fields splunk_server, splunk_user, and splunk_password.
 * The splunk_server field may be a DNS name to a search head cluster.
-* The splunk_user field must be a user with API permissions.
+* The splunk_user field must be a user with API permissions and permissions to write to DA-ESS-ThreatIntelligence where the collections are stored.
 * The splunk_password field must be base64 encoded password for the splunk_user.
 
 You can generate your base64 encoded password by launching Python interactively. 
