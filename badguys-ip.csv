@@ -1,0 +1,4 @@
+threat_key,ip,domain,weight,description,address,city,country,postal_code,state_prov,organization_name,organization_id,registration_time
+manual_intel,10.63.51.1,,low,TEST:IgnoreThreatIncidents,,,,,,,,
+manual_intel,10.63.51.2,,medium,TEST:IgnoreThreatIncidents,,,,,,,,
+myisac,10.63.51.66,scoobydoo.local,high,TEST:IgnoreThreatIncidents,,,,,,,,
